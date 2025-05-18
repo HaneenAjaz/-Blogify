@@ -1,0 +1,3 @@
+open different page for each blog
+minute read dynmaic
+the contact and feedback thing

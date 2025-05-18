@@ -1,0 +1,15 @@
+.contact-content{
+    height: 100vh;
+    background-color: #edcb9c;
+    /* display: flex; */
+    margin-top: 35px;
+    padding: 5px;
+
+}
+.btn{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.contact-form{
+    margin-top: 10px;
+}
